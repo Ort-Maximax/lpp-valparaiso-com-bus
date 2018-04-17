@@ -20,6 +20,7 @@
 *.rar
 
 # Eclipse project
+.project
 .metadata
 bin/
 tmp/
